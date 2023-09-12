@@ -1,0 +1,12 @@
+.Titulo{
+    background-image: url('../img/men/curinga.jpeg');
+    background-position: center;
+    margin: 40px;
+    padding: 20px;
+    font-family: verdana;
+    align-items: center;
+    justify-content: center;
+    flex: auto;
+    font-weight: bold;
+    text-align: center;
+}
